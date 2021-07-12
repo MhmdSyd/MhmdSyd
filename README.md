@@ -2,8 +2,7 @@
 
 
 ## Connect with me:
-### [Kaggle](https://www.kaggle.com/mhmdsyed) 
-### [Linkedin](https://www.linkedin.com/in/mhmdsyd)
-### [Twitter](https://twitter.com/Mohamed87489779)
-### [Behance](https://www.behance.net/euzma216fd81)
-###
+### ML and Data Analysis Notebook on [Kaggle](https://www.kaggle.com/mhmdsyed) 🤣
+### My Profile on[Linkedin](https://www.linkedin.com/in/mhmdsyd) 😉
+### Tweets on [Twitter](https://twitter.com/Mohamed87489779) 🥰
+### Graphic Design Portfolio on [Behance](https://www.behance.net/euzma216fd81) 😎
