@@ -3,6 +3,6 @@
 
 ## Connect with me:
 ### ML and Data Analysis Notebook on [Kaggle](https://www.kaggle.com/mhmdsyed) 🤣
-### My Profile on[Linkedin](https://www.linkedin.com/in/mhmdsyd) 😉
+### My Profile on [Linkedin](https://www.linkedin.com/in/mhmdsyd) 😉
 ### Tweets on [Twitter](https://twitter.com/Mohamed87489779) 🥰
 ### Graphic Design Portfolio on [Behance](https://www.behance.net/euzma216fd81) 😎
