@@ -17,3 +17,13 @@
 <img align="left" alt="Linkedin" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="32" height="32">
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MhmdSyd.MhmdSyd)
+
+###  &#x1f4c8; Most use language:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhmdSyd&show_icons=true&locale=en&layout=compact" alt="MhmdSyd" />
+
+ 
+ ##  &#x1f4c8; GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmdSyd&show_icons=true&theme=tokyonight)
+![](https://activity-graph.herokuapp.com/graph?username=MhmdSyd&theme=react-dark&area=true)
+
