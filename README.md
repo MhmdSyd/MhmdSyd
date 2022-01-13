@@ -42,5 +42,3 @@
  
  ##  &#x1f4c8; GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmdSyd&show_icons=true&theme=tokyonight)
-
-
