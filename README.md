@@ -33,10 +33,10 @@
 <br />
   
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"></code>
 <br>
  
  
