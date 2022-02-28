@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Mohamed Elsayed </h1>
-<h3 align="center"> An Artificial Intelligence Engineer. </h3>
+<h3 align="center"> Data Analyst | Machine Learning | Kaggler</h3>
 
 ### About Me:
 
@@ -42,25 +42,73 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   > <a href="https://www.kaggle.com/mhmdsyed/cnn-for-arabic-handwritten-characters"> CNN for Arabic Handwritten Characters ✍️ | Kaggle Compitition.</a>
   
   > <a href="https://www.kaggle.com/mhmdsyed/gender-classification-using-keras"> Gender Classification 🧍🏻‍♀️| 🧍‍♂️ Using Keras.</a>
-<br />  
+  <br />  
+  
+<h3 align="center"> ===========> Certifications <============ </h3>
 
+  <table border="0"; align="center" >
+    <tr>
+      <th>Data Analysis</th>
+      <th>Data Science</th>
+   </tr>
+    
+   <tr>
+      <td><a href="https://bit.ly/3poS9yq"> Data Analysis with Python Track | DataCamp </a></td>
+      <td><a href="https://bit.ly/3Iu4tFg"> Data Scientist with Python Track | DataCamp </a></td>
+   </tr>
+   <tr>
+      <td><a href="https://bit.ly/3Hx3gvn"> Data Analysis with Python | FreeCodeCamp </a></td>
+      <td><a href="https://bit.ly/3M7I2rF"> Machine Learning with Python | FreeCodeCamp </a></td>
+   </tr>
+   <tr>
+      <td><a href="https://bit.ly/3snt4Ga"> Data Analyst Career Track | 365DataScience </a></td>
+      <td><a href="https://bit.ly/3pjmKgL"> Data Science Career Track | 365DataScience </a></td>
+   </tr>
+   <tr>
+      <td><a href="https://bit.ly/35EnFBO"> Data Analytics Fundamentals | AWS Foundations </a></td>
+      <td><a href="https://bit.ly/3JS930m"> Machine Learning Basics | AWS Foundations </a></td>
+   </tr>
+  </table>
+  
+<br />  
+  
+<h3 align="center"> ===========> Technical Skills <============ </h3>
+  <center>
+    <div>
+      <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+      <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+      <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+      <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    </div>
+      </center>
+  <br />
+
+  <div text-align="center">
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    
+  </div>
+  <br />  
+  
 ### Connect with me:
-<br />
+
 <a href="https://www.kaggle.com/mhmdsyed" target="blank">
-  <img align="left" alt="Github" src="https://image.flaticon.com/icons/png/512/733/733553.png"  width="32" height="32">
+  <img align="left" alt="Github" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
 <a href="https://twitter.com/Mohamed87489779" >
   
-  <img align="left" alt="Twitter" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width="32" height="32">
+  <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 <a href="https://www.behance.net/euzma216fd81">
-<img align="left" alt="Behance" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png"  width="32" height="32">
+<img align="left" alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 <a href="https://www.linkedin.com/in/mhmdsyd/">
-<img align="left" alt="Linkedin" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="32" height="32">
+<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<!--  ======================================================================   -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MhmdSyd.MhmdSyd)
 <br />
   
 ###  &#x1f4c8; Most use language:
