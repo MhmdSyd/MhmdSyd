@@ -26,22 +26,22 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   
   > <a href="https://www.kaggle.com/mhmdsyed/titanic-survival-prediction-with-ml">Titanic | Survival Prediction with ML.</a>
   
-  > <a href="https://www.kaggle.com/mhmdsyed/dry-beans-final-teamup">Dry Beans Classification.</a>
+  > <a href="https://www.kaggle.com/mhmdsyed/dry-beans-final-teamup">Dry Beans Classification | Kaggle Competition.</a>
   
-  > <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model">Seoul Bike Rental 🚴‍♂️ | Regression Model.</a>
+  > <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model">Seoul Bike Rental 🚴‍♂️ Regression | Kaggle Competition.</a>
   
   > <a href="https://www.kaggle.com/mhmdsyed/30-day-ml-starter-eda-simple-xgboost-model">30 Day ML Starter | EDA + Simple XGBoost Model.</a>
 <br />
   
 ### Deep Learning Compurter Vision Projects:
   
-  > Face Mask Detection | YOLOv5.
+  > <a href="https://www.kaggle.com/mhmdsyed/face-mask-detection-yolov5"> Face Mask Detection | YOLOv5.</a>
   
-  > Digital Handwriting Recognizer ✍️.
+  > <a href="https://www.kaggle.com/mhmdsyed/digital-handwriting-recognizer"> Digital Handwriting Recognizer ✍️.</a>
   
-  > CNN for Arabic Handwritten Characters ✍️.
+  > <a href="https://www.kaggle.com/mhmdsyed/cnn-for-arabic-handwritten-characters"> CNN for Arabic Handwritten Characters ✍️ | Kaggle Compitition.</a>
   
-  > Gender Classification 🧍🏻‍♀️| 🧍‍♂️ Using Keras.
+  > <a href="https://www.kaggle.com/mhmdsyed/gender-classification-using-keras"> Gender Classification 🧍🏻‍♀️| 🧍‍♂️ Using Keras.</a>
 <br />  
 
 ### Connect with me:
