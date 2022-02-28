@@ -1,9 +1,51 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Mohamed Elsayed </h1>
-<h3 align="center"> A Professional Artificial Intelligence Engineer. </h3>
+<h3 align="center"> An Artificial Intelligence Engineer. </h3>
+
+### About Me:
+
+A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machine Learning, and other branches of AI, has good hands-on experience. Hold a postgraduate diploma in AI from ITI also a BSc.
+
+
+<h3 align="center"> ===========> Projects <============ </h3>
+  
+ ### Data Analysis Projects:
+  
+> <a href="https://github.com/MhmdSyd/COVID-19-Power-Bi-Dashboard">Global COVID-19 Tracker Dashboard</a>
+  
+> <a href="https://www.kaggle.com/mhmdsyed/covid-19-bar-chart-race-visualization">COVID-19 😷 | Bar Chart Race Visualization </a>
+  
+> <a href="https://github.com/MhmdSyd/FIFA22-Player-Card"> FIFA 22 Player Card Dashboard </a>
+
+> <a href="https://www.kaggle.com/mhmdsyed/fifa-19-dream-team"> FIFA 19 | Dream Team ⚽️ </a>
+
+> <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone"> Seoul Bike 🚴‍♂️ | Basic EDA for Everyone 😊 </a>
+
+<br />
+  
+### Machine Learning Projects:
+  
+  > Titanic | Survival Prediction with ML.
+  
+  > Dry Beans Classification.
+  
+  > Seoul Bike Rental 🚴‍♂️ | Regression Model.
+  
+  > 30 Day ML Starter | EDA + Simple XGBoost Model.
+<br />
+  
+### Deep Learning Compurter Vision Projects:
+  
+  > Face Mask Detection | YOLOv5.
+  
+  > Digital Handwriting Recognizer ✍️.
+  
+  > CNN for Arabic Handwritten Characters ✍️.
+  
+  > Gender Classification 🧍🏻‍♀️| 🧍‍♂️ Using Keras.
+<br />  
 
 ### Connect with me:
-
-
+<br />
 <a href="https://www.kaggle.com/mhmdsyed" target="blank">
   <img align="left" alt="Github" src="https://image.flaticon.com/icons/png/512/733/733553.png"  width="32" height="32">
   </a>
@@ -17,12 +59,14 @@
 <a href="https://www.linkedin.com/in/mhmdsyd/">
 <img align="left" alt="Linkedin" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="32" height="32">
 </a>
-
+<!--  ======================================================================   -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MhmdSyd.MhmdSyd)
-
+<br />
+  
 ###  &#x1f4c8; Most use language:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhmdSyd&show_icons=true&locale=en&layout=compact" alt="MhmdSyd" />
-
+<br />
+  
  🔧**Languages and Tools:**  
  
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
