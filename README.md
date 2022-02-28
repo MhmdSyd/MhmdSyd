@@ -24,13 +24,13 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   
 ### Machine Learning Projects:
   
-  > Titanic | Survival Prediction with ML.
+  > <a href="https://www.kaggle.com/mhmdsyed/titanic-survival-prediction-with-ml">Titanic | Survival Prediction with ML.</a>
   
-  > Dry Beans Classification.
+  > <a href="https://www.kaggle.com/mhmdsyed/dry-beans-final-teamup">Dry Beans Classification.</a>
   
-  > Seoul Bike Rental 🚴‍♂️ | Regression Model.
+  > <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-rental-regression-model">Seoul Bike Rental 🚴‍♂️ | Regression Model.</a>
   
-  > 30 Day ML Starter | EDA + Simple XGBoost Model.
+  > <a href="https://www.kaggle.com/mhmdsyed/30-day-ml-starter-eda-simple-xgboost-model">30 Day ML Starter | EDA + Simple XGBoost Model.</a>
 <br />
   
 ### Deep Learning Compurter Vision Projects:
