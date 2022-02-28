@@ -145,5 +145,6 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
 </a>
 <br />
   
- ##  &#x1f4c8; GitHub Stats:
+ ###  &#x1f4c8; GitHub Stats:
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmdSyd&show_icons=true&theme=tokyonight)
