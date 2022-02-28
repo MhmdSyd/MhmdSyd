@@ -10,15 +10,15 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   
  ### Data Analysis Projects:
   
-> <a href="https://github.com/MhmdSyd/COVID-19-Power-Bi-Dashboard">Global COVID-19 Tracker Dashboard</a>
+> <a href="https://github.com/MhmdSyd/COVID-19-Power-Bi-Dashboard" target="_blank">Global COVID-19 Tracker Dashboard</a>
   
-> <a href="https://www.kaggle.com/mhmdsyed/covid-19-bar-chart-race-visualization">COVID-19 😷 | Bar Chart Race Visualization </a>
+> <a href="https://www.kaggle.com/mhmdsyed/covid-19-bar-chart-race-visualization" target="_blank">COVID-19 😷 | Bar Chart Race Visualization </a>
   
-> <a href="https://github.com/MhmdSyd/FIFA22-Player-Card"> FIFA 22 Player Card Dashboard </a>
+> <a href="https://github.com/MhmdSyd/FIFA22-Player-Card" target="_blank"> FIFA 22 Player Card Dashboard </a>
 
-> <a href="https://www.kaggle.com/mhmdsyed/fifa-19-dream-team"> FIFA 19 | Dream Team ⚽️ </a>
+> <a href="https://www.kaggle.com/mhmdsyed/fifa-19-dream-team" target="_blank"> FIFA 19 | Dream Team ⚽️ </a>
 
-> <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone"> Seoul Bike 🚴‍♂️ | Basic EDA for Everyone 😊 </a>
+> <a href="https://www.kaggle.com/mhmdsyed/seoul-bike-basic-eda-for-everyone" target="_blank"> Seoul Bike 🚴‍♂️ | Basic EDA for Everyone 😊 </a>
 
 <br />
   
