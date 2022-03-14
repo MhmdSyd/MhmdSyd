@@ -10,7 +10,7 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   
  ### Data Analysis Projects:
   
-> <a href="https://github.com/MhmdSyd/COVID-19-Power-Bi-Dashboard" target="_blank">Global COVID-19 Tracker Dashboard</a>
+> <a href="https://github.com/MhmdSyd/Covid_19_DashBoard_Tracker" target="_blank">Global COVID-19 Tracker Dashboard</a>
   
 > <a href="https://www.kaggle.com/mhmdsyed/covid-19-bar-chart-race-visualization" target="_blank">COVID-19 😷 | Bar Chart Race Visualization </a>
   
