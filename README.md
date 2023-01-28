@@ -3,7 +3,11 @@
 
 ### About Me:
 
-A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machine Learning, and other branches of AI, has good hands-on experience. Hold a postgraduate diploma in AI from ITI also a BSc.
+An AI engineer who has a good background in data analytics, data science and other branches of artificial intelligence has a good hands-on experience.
+- **JAN,2023 - Now**: working for TecSolutionGroup in Saudi Arabia as Data Analyst and AI Engineer.
+- **Recently, Apr,2022 - Jan,2023**: he worked in Huawei as a Software Engineer and TL for the Reporting Team using the "Power BI, FineBI, Echarts(JS)" tools.
+- **Postgraduate studies April,2021 - JAN,2022**: Graduate of the 9-month ITI diploma on AI Track.
+- **Education, 2015 - 2020**: Graduated from the Engineering Department of Menofia University with a bachelor's degree.
 
 
 <h3 align="center"> ===========> Projects <============ </h3>
