@@ -4,13 +4,17 @@
 ### About Me:
 
 An AI engineer who has a good background in data analytics, data science and other branches of artificial intelligence.
+
+### Working History:
+
 - **Jan,2023 - Now**: working for TecSolutionGroup in Saudi Arabia as Data Analyst and AI Engineer.
  
 - **Apr,2022 - Jan,2023**: worked in Huawei as a Software Engineer Egypt AUTIN Team and TL for "Reporting" using BI tools.
 
-- **Postgraduate Studies Apr,2021 - Jan,2022**: Graduate of the 9-month ITI diploma on AI Track.
+### Education:
+- **Postgraduat Studies Apr,2021 - Jan,2022**: Graduate from ITI 9-months diploma at Artificial Intelligence Track.
 
-- **Education, 2015 - 2020**: Graduated from the Engineering Department of Menofia University with a bachelor's degree.
+- **2015 - 2020**: Graduated from the faculty of Engineering at Menofia University with a bachelor's degree.
 
 
 <h3 align="center"> ===========> Projects <============ </h3>
