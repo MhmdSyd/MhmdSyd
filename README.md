@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Mohamed Elsayed </h1>
-<h3 align="center"> Data Analyst | Machine Learning | Kaggler</h3>
+<h3 align="center"> Data Analyst And AI Engineer</h3>
 
 ### About Me:
 
