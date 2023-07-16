@@ -9,7 +9,7 @@ An AI engineer who has a good background in data analytics, data science and oth
 ### Working History:
 
 - **May,2023 - Now**: Working at PwC in Riyadh, Saudi Arabia as Data Analytics Consultant.
-- 
+  
 - **Dec,2022 - May-2023**: Working at TecSolutionGroup in Riyadh, Saudi Arabia as Data Analyst and AI Engineer.
  
 - **Apr,2022 - Jan,2023**: At Huawei as a Software Engineer Egypt AUTIN Team and TL for "Reporting" using BI tools.
