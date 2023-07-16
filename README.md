@@ -12,7 +12,7 @@ An AI engineer who has a good background in data analytics, data science and oth
   
 - **Dec,2022 - May-2023**: Working at TecSolutionGroup in Riyadh, Saudi Arabia as Data Analyst and AI Engineer.
  
-- **Apr,2022 - Jan,2023**: At Huawei as a Software Engineer Egypt AUTIN Team and TL for "Reporting" using BI tools.
+- **Mar,2022 - Dec,2022**: At Huawei as a Software Engineer Egypt AUTIN Team and TL for "Reporting" using BI tools.
 
 ### Education:
 - **Postgraduat Studies Apr,2021 - Jan,2022**: Graduate from ITI 9-months diploma at Artificial Intelligence Track.
