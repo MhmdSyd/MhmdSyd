@@ -1,14 +1,14 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Mohamed Elsayed </h1>
-<h3 align="center"> Data Analyst And AI Engineer</h3>
+<h3 align="center"> Data Analyst And Generative AI Engineer</h3>
 <h3 align="center"><a href="https://www.teacheron.com/tutor-profile/4WvB?r=4WvB" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a></h3>
 
 ### About Me:
 
-An AI engineer who has a good background in data analytics, data science and other branches of artificial intelligence.
+Data Analyst and Generative AI engineer who has a good background in data analytics, data science and other branches of artificial intelligence.
 
 ### Working History:
 
-- **May,2023 - Now**: Working at PwC in Riyadh, Saudi Arabia as Data Analytics Consultant.
+- **May,2023 - Now**: Working at PwC in Riyadh, Saudi Arabia as Data Analyst and Generative AI Developer.
   
 - **Dec,2022 - May-2023**: Working at TecSolutionGroup in Riyadh, Saudi Arabia as Data Analyst and AI Engineer.
  
